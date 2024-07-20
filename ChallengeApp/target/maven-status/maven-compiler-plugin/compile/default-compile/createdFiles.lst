@@ -1,0 +1,5 @@
+com\Project\ChallengeApp\ChallengeAppApplication.class
+com\Project\ChallengeApp\controller\ChallengeController.class
+com\Project\ChallengeApp\Service\ChallengeService.class
+com\Project\ChallengeApp\model\Challenge.class
+com\Project\ChallengeApp\repository\ChallenegeRpository.class
